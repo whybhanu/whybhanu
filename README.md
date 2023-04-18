@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanupratap Singh</h1>
 <h3 align="center">A passionate full-stack web developer from India, Pre-Final year CSE undergrad in VIT, Bhopal.</h3>
-<img align="right" alt="Coding" width="300" style="border: 10px solid blue; border-radius: 100%;" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=2000&t=st=1681814239~exp=1681814839~hmac=6cb3226d4890b81c7e76c2271debd62ad7b2c2677e2626ac2467e416ae0d5877">
+<img align="right" alt="Coding" width="250" style="border: 10px solid blue; border-radius: 100%;" src="[https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=2000&t=st=1681814239~exp=1681814839~hmac=6cb3226d4890b81c7e76c2271debd62ad7b2c2677e2626ac2467e416ae0d5877](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000&t=st=1681828599~exp=1681829199~hmac=fb9345c4413a157c7b8a0c989f58c467528d582482008b2e15fd751a2aec3e6f)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whybhanu&label=Profile%20views&color=0e75b6&style=flat" alt="whybhanu" /> </p>
 
