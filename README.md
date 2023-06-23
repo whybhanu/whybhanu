@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bhanupratap.singh13012003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PYKgvNM0hMgBBOUoegFsIkfVxinofNEf/view?usp=sharing](https://drive.google.com/file/d/1PYKgvNM0hMgBBOUoegFsIkfVxinofNEf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PYKgvNM0hMgBBOUoegFsIkfVxinofNEf/view?usp=sharing](https://drive.google.com/file/d/1MeBmOuRsxguNBSXe4tmaLmNW1ZhdnloD/view?usp=sharing)
 
 - ⚡ Fun fact **"Only about 10% of the world's currency is physical money, the rest only exists on computers"**
 
