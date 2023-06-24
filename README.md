@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **weCare- The care you need**
 
-- 🌱 I’m currently learning **Advanced Java & React**
+- 🌱 I’m currently learning **Data Structures and Algorithm and ReactJS**
 
 - 💬 Ask me about **react, angular and java**
 
